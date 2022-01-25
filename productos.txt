@@ -1,0 +1,32 @@
+[
+    {
+        "title": "pelota",
+        "price": 200,
+        "thumbnail": "https://ep01.epimg.net/verne/imagenes/2015/09/11/articulo/1441988783_165642_1442161238_sumario_normal.jpg",
+        "id": 1643150911209
+    },
+    {
+        "title": "reloj",
+        "price": 100,
+        "thumbnail": "https://www.ikea.com/es/es/images/products/tjalla-reloj-pared-negro__0790238_pe767383_s5.jpg?f=xs",
+        "id": 1643150911207
+    },
+    {
+        "title": "silla",
+        "price": 400,
+        "thumbnail": "https://www.ikea.com/es/es/images/products/lerhamn-silla-tinte-envejecido-claro-vittaryd-beige__0728161_pe736119_s5.jpg?f=s",
+        "id": 1643150911209
+    },
+    {
+        "id": 1643151239941
+    },
+    {
+        "id": 1643151239942
+    },
+    {
+        "id": 1643151289046
+    },
+    {
+        "id": 1643151289048
+    }
+]
